@@ -48,8 +48,8 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ERAGON007&include_all_commits=true&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ERAGON007&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ERAGON007&include_all_commits=true&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERAGON007&langs_count=10)](https://github.com/ERAGON007/ERAGON007)    
 </a>
 </p>
 
