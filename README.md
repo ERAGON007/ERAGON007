@@ -19,27 +19,27 @@
 </ul>
 <h2>🚀 Some tools I use</h2>
 <p align="left">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="react" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="angular-js" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="bootstrap" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" alt="html5" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt="css3" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="php" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="javascript" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="typescript" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="mysql" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="nodejs" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" alt="python" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="python" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="python" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" alt="python" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="python" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="python" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="python" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="python" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="python" width="50" height="50" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="python" width="50" height="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="react" width="65" height="65" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="angular-js" width="65" height="65" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="bootstrap" width="65" height="65" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" alt="html5" width="65" height="65" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt="css3" width="65" height="65" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="php" width="65" height="65" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="javascript" width="65" height="65" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="typescript" width="65" height="65" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="mysql" width="65" height="65" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="nodejs" width="65" height="65" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" alt="python" width="65" height="65" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="python" width="65" height="65" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="python" width="65" height="65" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" alt="python" width="65" height="65" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="65" height="65" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="python" width="65" height="65" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="python" width="65" height="65" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="python" width="65" height="65" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="python" width="65" height="65" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="python" width="65" height="65" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="python" width="65" height="65" />
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
