@@ -48,10 +48,10 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ERAGON007&include_all_commits=true&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ERAGON007&include_all_commits=true&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERAGON007&langs_count=10)](https://github.com/ERAGON007/ERAGON007)
 </a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERAGON007&langs_count=10)](https://github.com/ERAGON007/ERAGON007)   
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ERAGON007.ERAGON007)
