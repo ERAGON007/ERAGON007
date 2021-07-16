@@ -49,7 +49,7 @@
 <p align="center">
 <a href="https://github.com/AVS1508">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ERAGON007&include_all_commits=true&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERAGON007&langs_count=10"/>
+    <img height="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERAGON007&langs_count=10"/>
 </a>
 </p>
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
