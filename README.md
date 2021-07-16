@@ -33,7 +33,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="nodejs" width="25" height="25" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" alt="python" width="25" height="25" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="python" width="25" height="25" />
-  
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="python" width="25" height="25" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" alt="python" width="25" height="25" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
