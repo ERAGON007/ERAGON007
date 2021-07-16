@@ -44,5 +44,13 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="python" width="25" height="25" />
 </p>
 
+### ⚙️ &nbsp;GitHub Analytics
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ERAGON007&show_icons=true&hide_border=true" alt="Eragon's Github Stats">
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ERAGON007&include_all_commits=true&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ERAGON007&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
