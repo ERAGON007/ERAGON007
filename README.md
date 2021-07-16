@@ -54,3 +54,5 @@
 </p>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ERAGON007.ERAGON007)
