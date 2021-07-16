@@ -4,8 +4,6 @@
 <p>
     <a href="https://www.linkedin.com/in/%D9%85%D8%AD%D9%85%D8%AF%D8%B1%D8%B6%D8%A7-%D9%86%D8%AC%D9%81%DB%8C-358647217/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
     <a href="https://open.spotify.com/user/_ERAGON_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=black" alt="Spotify Badge"></a>
-    <a href="eragon57@outlook.com"><img scr="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Badge"></a>
-    <a href="https://t.me/Dev_Eragon"><img scr="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
 </p>
 
 <img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="480" />
@@ -16,6 +14,8 @@
     <li>💬 I spend my time coding and creating new things, especially when they can help me or another human being in some way.</li>
     <li>📙 Check out my <a href="https://github.com/ERAGON007?tab=repositories">repositories</a>.</li>
     <li>🎉 Curiosity: I spend my free time for gaming!</li>
+    <li>My EMAIL: eragon57@outlook.com</li>
+    <li>Telegram: https://t.me/Dev_Eragon</li>
 </ul>
 <h2>🚀 Some tools I use</h2>
 <p align="left">
