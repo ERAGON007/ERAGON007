@@ -19,6 +19,8 @@
 </ul>
 <h2>🚀 Some tools I use</h2>
 <p align="left">
+    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/zig/zig-original-wordmark.svg" alt="react" width="65" height="65" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="react" width="65" height="65" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="angular-js" width="65" height="65" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="bootstrap" width="65" height="65" />
